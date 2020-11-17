@@ -52,7 +52,6 @@ table {
 }
 
 
-
 /* ---------- Hello, my name is Meilan Wong and this is the beginning of my CONTACT PAGE CSS for 318 Digital Typography November 2019 ------------ */
 
 html, body {
@@ -60,7 +59,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background: url(images/cloudbg.jpg)
+  background: url(images/plant.jpg)
       center center fixed no-repeat; 
 	background-size: cover; 
 	
@@ -72,6 +71,8 @@ html, body {
     margin: 100px auto;
  /*this uses opacity of 75% for the background color*/
 	text-align: center;
+    background: #F5F5F5;
+    border-radius: 25px;
 	border: 4px white;
 }
 
@@ -116,7 +117,7 @@ nav{
     font-size: 1.2em;
     width: 400px;
     margin: 0 auto;
-    border: solid antiquewhite;
+    border: solid #245739;
     border-width: 3px 0;
     text-align: center;
     margin-top: 2em;
@@ -132,7 +133,7 @@ nav a{
 }
 
 a{
-    color: antiquewhite;
+    color: #FAB7AE;
     text-decoration: none;
     font-weight: bold;
 }
